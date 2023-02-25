@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lissa3
-- 👀 I’m interested in django and vue.js
-- 🌱 I’m currently learning vue.js
+- 👀 I’m interested in django and react
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
