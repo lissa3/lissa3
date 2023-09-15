@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lissa3
 - 👀 I’m interested in django and react
 - 🌱 I’m currently (still) learning  django
-- 💞️ I’m looking to collaborate on my project medsandbox
+- 💞️ I’m looking to collaborate on my project medsbox
 - 📫 How to reach me ...
 
 <!---
